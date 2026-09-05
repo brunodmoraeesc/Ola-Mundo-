@@ -1,2 +1,3 @@
 # Ola Mundo!
-Primeiro repositorioda vida
+
+Repositório criado durante o curso do Guanabara! 
